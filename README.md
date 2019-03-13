@@ -1,8 +1,6 @@
-# Flying Zeppelin Problem
-- Dijkstra's shortest path finding algorithm
+# Traveler Zeppelin Problem
+- Object-oriented analysis and programming with Java
+- Dijkstra's shortest path finding algorithm used with graph data structure
 - Calculate distances and slopes between cities on map
-- Using Java Swing and AWT as GUI
+- Java Swing and AWT
 - File I/O
-- Object-oriented programming with Java
-
-Project completed (100/100)
